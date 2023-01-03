@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Virtual Engineer @ Daimler and making indie games as a hobby<br>👯 I’m looking to collaborate on various Game Jams<br>🤝 I’m looking for help with Artists and other enthusiastic Game Devs<br>🌱 I’m currently learning Multiplayer Game Development and other stuff<br>
+🔭 I’m currently working as a Virtual Engineer @ Mercedes-Benz and making indie games as a hobby<br>👯 I’m looking to collaborate on various Game Jams<br>🤝 I’m looking for help with Artists and other enthusiastic Game Devs<br>🌱 I’m currently learning Multiplayer Game Development and other stuff<br>
 
 
 ## 🌐 Socials:
