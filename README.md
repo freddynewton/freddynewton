@@ -1,6 +1,6 @@
 <h1>🐸 Hi there! I'm Freddy – Unity & XR Developer from Germany</h1>
 
-<img src="https://avatars.githubusercontent.com/u/68334074?s=400&u=5217b0bb19100afa26379afb9d2769b49572cda9&v=4">
+<img src="https://avatars.githubusercontent.com/u/68334074?s=400&u=5217b0bb19100afa26379afb9d2769b49572cda9&v=4" alt="Freddy's Avatar">
 
 ---
 
